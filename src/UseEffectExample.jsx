@@ -10,7 +10,7 @@ const UseEffectExample = () => {
     <div>
       <button onClick={()=>setCount(count+1)}>click</button>
       <br/>
-      {count}Test
+      {count}
     </div>
   )
 }
